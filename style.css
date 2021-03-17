@@ -35,17 +35,21 @@ body {
 }
 
 #menu-right-top a{
+    background-color: #4583ec;
     color: white;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    padding: 8px 14px;
+    border-radius: 2px;
+    font-size: 13px;
     font-weight: bold;
-    padding: 3px 15px;
-    background-color: #4285f4;
-    border-radius: 3px;
+    margin: 0px 15px;
 }
 
-.sign-in{
-    text-align: right;
 
-}
+
+
 
 .logo{
     display: flex;
@@ -57,6 +61,5 @@ img{
     width: auto;
     position: absolute;
     top: 22%
-    
 
 }
