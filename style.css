@@ -3,20 +3,25 @@ body {
 }
 
 .page{
-    font-size:smaller;
+    font-size: 13px;
 }
 
 .top-bar{
-    padding-right: 50;
+    margin-top: 25px;
+    
+   
 }
 
-#menu ul{
+#menu-left-top ul{
     list-style-type: none;
     
 }
 
-#menu li{
+#menu-left-top li{
     display:inline;
+    padding: 10px;
+    color: grey;
+    
    
 }
 
@@ -34,6 +39,6 @@ body {
 img{
     width: auto;
     position: absolute;
-    top: 21%
+    top: 20%
 
 }
