@@ -3,7 +3,7 @@ body {
 }
 
 .page{
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .top-bar{
@@ -58,10 +58,21 @@ body {
 
 .bottom-nav{
     background-color: #f2f2f2;
+    color: grey;
     position: absolute;
     bottom: 0;
     width: 100%;
 }
+
+.bottom-bar {
+    margin-bottom: 15px;
+}
+
+#footer-left ul{
+    list-style-type: none;
+}
+
+
 
 
 
