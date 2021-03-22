@@ -52,14 +52,18 @@ body {
 }
 
 .logo{
-    display: flex;
-    justify-content: center;
-    
+    text-align: center;
+    padding-top: 22%;
 }
 
-img{
-    
-    margin-left:8%;
-    margin-top: 12%;
-
+.bottom-nav{
+    background-color: #f2f2f2;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
+
+
+
+
+
