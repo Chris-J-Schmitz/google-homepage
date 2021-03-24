@@ -53,28 +53,31 @@ body {
 
 .logo{
     text-align: center;
-    padding-top: 22%;
+    padding-top: 184px;
+
 }
 
 .bottom-nav{
     background-color: #f2f2f2;
     color: grey;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
 }
 
-.bottom-bar {
-    margin-bottom: 15px;
+#bottom-left li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    float: left;
 }
 
-#footer-left ul{
-    list-style-type: none;
+#bottom-right li{
+    list-style: none;
+    display: inline;
+    padding: 8px;
+    float: right; 
+    margin-right: 20px;
 }
-
-
-
-
-
 
 
